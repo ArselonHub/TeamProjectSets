@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,https://github.com/ArselonHub/ArtCore-stm32f4.git,master,."/>
+<project reference="1.0,https://github.com/ArselonHub/ArtGui-stm32f4.git,master,."/>
+<project reference="1.0,https://github.com/ArselonHub/ArtMtd-stm32f4.git,master,."/>
+<project reference="1.0,https://github.com/ArselonHub/ArtGuiExamples-stm32f429i-disco.git,master,Buttons"/>
+</provider>
+</psf>
